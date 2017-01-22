@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+After initialization a repository gives meaningful status. It is important to understand meaningful status of a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging are allows to work with specific number of files which will be commited from working directory to repository. It is a great option, because it gives the opportunity to commit only those files which are needed.
