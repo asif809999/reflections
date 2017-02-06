@@ -12,3 +12,6 @@ when a newer verstion of the project is introduced making a new branch is helpfu
 
 How do the diagrams help you visualize the branch structure?
 it tells which commits may get cut from the commit history
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It adds two important branches with all its commits. Diagram can be used to understand the situation more easily.
