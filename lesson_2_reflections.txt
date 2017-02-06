@@ -3,3 +3,9 @@ After initialization a repository gives meaningful status. It is important to un
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging are allows to work with specific number of files which will be commited from working directory to repository. It is a great option, because it gives the opportunity to commit only those files which are needed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+It can be achieved by seding only one file to the staging area which contains the change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when a newer verstion of the project is introduced making a new branch is helpful.It will keep the previous version intacked and make a new version of that project also.
