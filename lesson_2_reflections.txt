@@ -15,3 +15,6 @@ it tells which commits may get cut from the commit history
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It adds two important branches with all its commits. Diagram can be used to understand the situation more easily.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If there is no conflict automatic merging is the best option. Because manual merging takes more time. When there is a conflict manual merging is the only option.
