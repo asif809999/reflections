@@ -10,3 +10,6 @@ fors are done inside Github(online server), Clones are done from github to local
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 working without having internet connection is possible for a while.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+emailing zipped file of the project :D. when there will be lot of team members it will be harder to work togather. Emailing a project is an easy task :).
