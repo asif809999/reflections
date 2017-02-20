@@ -13,3 +13,6 @@ working without having internet connection is possible for a while.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 emailing zipped file of the project :D. when there will be lot of team members it will be harder to work togather. Emailing a project is an easy task :).
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when there are some new features to add, branche is a good way to do work. But working on the master make the workflow less complicated.
